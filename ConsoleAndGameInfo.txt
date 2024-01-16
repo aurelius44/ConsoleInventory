@@ -1,0 +1,38 @@
+
+Console #1
+
+Console Brand: 1
+Console Name: Super Nintendo
+Release date: 1990
+
+Console #2
+
+Console Brand: 2
+Console Name: Playstation 2
+Release date: 1999
+
+Console #3
+
+Console Brand: 3
+Console Name: Xbox
+Release date: 2001
+
+Console #4
+
+Console Brand: 0
+Console Name: 
+Release date: 1972
+
+Console #5
+
+Console Brand: 0
+Console Name: 
+Release date: 1972
+
+Game #1
+
+Game title: Super Castlevania 4
+Developer: Konami
+Genre: Platformer
+Release Date: 1991
+Price: $60
